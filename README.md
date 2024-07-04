@@ -1,7 +1,7 @@
 # SQL_rede_social
 Um Schema SQL de uma banco de dados de uma rede social
 
-Na disciplina de Ambientes de Dados, utilizando como SGDB o MySQL, fizemos a criação e diagramação de um banco de dados de uma rede social fictícia, contendo:
+Na disciplina de Ambientes de Dados, utilizando como SGBD o MySQL, fizemos a criação e diagramação de um banco de dados de uma rede social fictícia, contendo:
 
 - tabela de usuários
 - tabela de postagens
